@@ -1,6 +1,7 @@
 <p>Hi. My name is Sriman Yalavathi.
   </p>
-<p>i love to work on the iot devices and try pentestig on them na di did lot of arduino (uno, mega, nano, due).
+<p>i love to work on the iot devices and try pentestig on them.
+  i did lot of arduino (uno, mega, nano, due).
   </p>
 <p>i also worked on kali linux, parrot os, ubuntu, ment os, cent os, tails, raspbian, debian flavours in virtual, bare metal as well as in mini computer like raspberry pi.
   </p>
